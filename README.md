@@ -4,7 +4,7 @@ Data repository for Paola Amadeo's Bachelor's of Science thesis in the Departmen
 
 "The Effect of Simultaneous Proton Irradiation and Corrosion on Stainless Steel exposed to Liquid Lead-Bismuth at 675°C"
 
-['1-Sample-Images'](1-Sample-Images/): SEM images of all 3 samples ("Main Images") and selected areas near the surface ("Surface Selection Images") at different percents of total image thickness
+['1-Sample-Images'](1-Sample-Images/): SEM images of all 3 samples ['Full Images'](Full Images/) and selected areas near the surface ("Surface Selection Images") at different percents of total image thickness
 
 ['4-Stastical-Analyses-Corrosion'](4-Statistical-Analyses-Corrosion.ijm): .ijm file to process the thresholded images in FIJI and output the corrosion depth
 
