@@ -1,8 +1,6 @@
 # 2025-pamadeo-SB-thesis
 
-Data repository for Paola Amadeo's Bachelor's of Science thesis in the Department of Materials Science and Engineering
-
-"The Effect of Simultaneous Proton Irradiation and Corrosion on Stainless Steel exposed to Liquid Lead-Bismuth at 675°C"
+Data repository for Paola Amadeo's Bachelor's of Science thesis in the Department of Materials Science and Engineering, "The Effect of Simultaneous Proton Irradiation and Corrosion on Stainless Steel exposed to Liquid Lead-Bismuth at 675°C"
 
 [1-Sample-Images](1-Sample-Images/): SEM images of all 3 samples [Full-Images](1-Sample-Images/Full-Images/), both as originally taken ("piece images") and stitched into a long image, as well as selected areas near the surface [Surface-Selection-Images](1-Sample-Images/Surface-Selection-Images/) at different percents of total image thickness
 
